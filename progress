@@ -1,0 +1,21 @@
+{
+  "dev": [
+    {
+      "titel": "A",
+      "amount": "10"
+    },
+    {
+      "titel": "B",
+      "amount": "20"
+    },
+    {
+      "titel": "C",
+      "amount": "30"
+    },
+     {
+      "titel": "D",
+      "amount": "40"
+    }
+   
+  ]
+}
