@@ -1,20 +1,10 @@
 {
-"nod": [
+"titel1": [
     {
       "titel1": "A",
       "amount1": "10"
-    },
-    {
-      "titel2": "B",
-      "amount2": "20"
-    },
-    {
-      "titel3": "C",
-      "amount3": "30"
-    },
-     {
-      "titel4": "D",
-      "amount4": "40"
     }
     ]
+    
+    
 }
