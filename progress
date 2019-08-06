@@ -6,15 +6,15 @@
     },
     {
       "titel2": "B",
-      "amount1": "20"
+      "amount2": "20"
     },
     {
       "titel3": "C",
-      "amount1": "30"
+      "amount3": "30"
     },
      {
       "titel4": "D",
-      "amount1": "40"
+      "amount4": "40"
     }
    
   ]
