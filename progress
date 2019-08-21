@@ -1,20 +1,20 @@
 {
   "dev": [
     {
-      "titel": "A",
-      "amount": "10"
+      "titel_1": "A",
+      "amount_1": "10"
     },
     {
-      "titel": "B",
-      "amount": "20"
+      "titel_2": "B",
+      "amount_2": "20"
     },
     {
-      "titel": "C",
-      "amount": "30"
+      "titel_3": "C",
+      "amount_3": "30"
     },
      {
-      "titel": "D",
-      "amount": "40"
+      "titel_4": "D",
+      "amount_4": "40"
     }
    
   ]
