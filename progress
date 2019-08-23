@@ -1,20 +1,20 @@
 {
   "dev": [
     {
-      "titel": "AB",
-      "amount": "10"
+      "titel": "implement the new POW Argon2id",
+      "amount": "12"
     },
     {
-      "titel": "B",
-      "amount": "20"
+      "titel": "New poolminer for Argon2id",
+      "amount": "0"
     },
     {
-      "titel": "C",
-      "amount": "30"
+      "titel": "GUI CrossWallet",
+      "amount": "0"
     },
      {
-      "titel": "D",
-      "amount": "40"
+      "titel": "Smartphone wallet",
+      "amount": "0"
     }
    
   ]
