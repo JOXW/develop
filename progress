@@ -1,7 +1,7 @@
 {
   "dev": [
     {
-      "titel": "implement the new POW Argon2id",
+      "titel": "new POW algo Argon2id",
       "amount": "12"
     },
     {
