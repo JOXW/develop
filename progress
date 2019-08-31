@@ -2,7 +2,7 @@
   "dev": [
     {
       "titel": "new POW algo Argon2id",
-      "amount": "35"
+      "amount": "60"
     },
     {
       "titel": "New poolminer for Argon2id",
