@@ -2,11 +2,11 @@
   "dev": [
     {
       "titel": "new POW algo Argon2id",
-      "amount": "99"
+      "amount": "100"
     },
     {
       "titel": "New poolminer for Argon2id",
-      "amount": "10"
+      "amount": "65"
     },
     {
       "titel": "GUI CrossWallet",
